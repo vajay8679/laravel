@@ -1,0 +1,50 @@
+[
+    {
+        "name": "Yahoo Baba",
+        "email": "yahoo@gmail.com",
+        "age": 10,
+        "city": 1
+    },
+    {
+        "name": "Ajay Kumar",
+        "email": "ajay@gmail.com",
+        "age": 15,
+        "city": 2
+    },
+    {
+        "name": "Amit Kuamr",
+        "email": "amit@gmail.com",
+        "age": 13,
+        "city": 2
+    },
+    {
+        "name": "Sumit Kumar",
+        "email": "sumit@gmail.com",
+        "age": 12,
+        "city": 4
+    },
+    {
+        "name": "Raja Kumar",
+        "email": "raja@gmail.com",
+        "age": 16,
+        "city": 3
+    },
+    {
+        "name": "viru Kumar",
+        "email": "viryu@gmail.com",
+        "age": 22,
+        "city": 5
+    },
+    {
+        "name": "virat Kumar",
+        "email": "virat@gmail.com",
+        "age": 32,
+        "city": 3
+    },
+    {
+        "name": "rohit Kumar",
+        "email": "rohit@gmail.com",
+        "age": 34,
+        "city": 6
+    }
+]
